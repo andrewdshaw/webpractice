@@ -1,15 +1,7 @@
-div {
-    height: 50px;
-    width: 50px;
-    border-radius: 100%;
-    background-color: #FF9C5B;
+.vanish {
+    height: 100px;
+    width: 100px;
     display: inline-block;
-}
-
-.red {
-    background-color: #E84A5F;
-}
-
-.pink {
-    background-color: #FF847C;
+    background-color: #F38630;
+    border-radius: 5px;
 }
