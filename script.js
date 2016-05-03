@@ -1,4 +1,5 @@
-$(document).ready(function(){
-    $('.red, .pink').fadeTo('slow', 0);
-    
+$(document).ready(function() {
+    $('button').click(function() {
+        $('.vanish').fadeOut('slow');
     });
+});
